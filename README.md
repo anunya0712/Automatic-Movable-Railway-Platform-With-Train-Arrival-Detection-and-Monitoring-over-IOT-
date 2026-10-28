@@ -1,0 +1,2 @@
+# Automatic-Movable-Railway-Platform-With-Train-Arrival-Detection-and-Monitoring-over-IOT-
+This project aims to develop an automatic movable railway platform system that detects train arrivals and monitors railway platform conditions using Internet of Things (IoT) technology. The system uses sensors to detect an approaching train and automatically adjusts the platform mechanism based on the train's arrival.
